@@ -1,0 +1,4 @@
+[mpv-v4l2request-git]
+source = "git"
+git = "https://github.com/philipl/mpv.git"
+prefix = "v"
