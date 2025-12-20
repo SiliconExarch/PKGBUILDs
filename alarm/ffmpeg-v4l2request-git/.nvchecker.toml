@@ -1,0 +1,5 @@
+[ffmpeg-v4l2request-git]
+source = "git"
+git = "https://code.ffmpeg.org/Kwiboo/FFmpeg.git"
+prefix = "n"
+exclude_regex = ".*v.*"
